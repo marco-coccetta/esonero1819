@@ -6,6 +6,6 @@ Modificare solamente il file esonero.c (master brach), con la soluzione dell'eso
 
 Aggiungere qui sotto
 
-Nome: 
-Cognome: 
-Matricola:
+Nome: Marco
+Cognome: Coccetta
+Matricola:316202
